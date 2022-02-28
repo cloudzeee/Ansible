@@ -1,1 +1,5 @@
-
+YAML is a human readable serialization standard used in conjunction with other programming lanuages to write configuration files. similar to json is designed to be human readable
+Playbook contains a list of steps whih the user wants to execute on particular time. 
+It is the cor feature of ansible and pushes configuration of waht ansible is to execute.
+It runs sequentially. It is a list of to-do action for ansibe
+Ansible has it own module library and are standalone reusable script that can be used by the nsible API or by the ansible playbook programs
