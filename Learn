@@ -3,3 +3,5 @@ Playbook contains a list of steps whih the user wants to execute on particular t
 It is the cor feature of ansible and pushes configuration of waht ansible is to execute.
 It runs sequentially. It is a list of to-do action for ansibe
 Ansible has it own module library and are standalone reusable script that can be used by the nsible API or by the ansible playbook programs
+Ansible modules are reusable standalone scripts that can be used by the asnible api, ansible or ansible-playbook
+
